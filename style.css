@@ -15,6 +15,9 @@ body{
 
 header {
   background-image: url('BG.jpg'); 
+  background-repeat: no-repeat;
+   background-attachment: fixed;  
+  background-size: cover;
   color:  #caff00;
   padding: 19px;
   text-align: center;
@@ -135,4 +138,5 @@ button {
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
   cursor: pointer;
 }
+
 

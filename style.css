@@ -1,7 +1,7 @@
 body{
   font-family: "Georgia", serif;
   margin: 0;
-   background-image: url('azure sect.jpg');
+   background-image: url('Azure sect.png');
    background-repeat: no-repeat;
    background-attachment: fixed;  
   background-size: cover;
@@ -138,5 +138,6 @@ button {
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
   cursor: pointer;
 }
+
 
 
